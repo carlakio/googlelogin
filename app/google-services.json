@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417862686824",
+    "project_id": "fir-try-69419",
+    "storage_bucket": "fir-try-69419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417862686824:android:66562d4d08b7eeddf943dd",
+        "android_client_info": {
+          "package_name": "com.example.firebasetry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNWaUNn7tmwRprECcS82Dx2v1QyRnXBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
